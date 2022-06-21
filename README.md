@@ -29,7 +29,7 @@ The scene is set on an island and the player is blown by the sea breeze and enjo
 In this scenario, the player is back at home, listening to birds and fountains.
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(23).png" width="860px" height="500px" alt="lab00-01"/>
 #### 3.Office
-Downstairs in the office, players can build their own space with blocks. The scene has a rain and snow system. Under the night sky, covered with twinkling stars. Enjoy some quiet time to yourself after work.
+Downstairs in the office, players can build their own space with blocks. The scene has a weather simulation system. Under the night sky, covered with twinkling stars. Enjoy some quiet time to yourself after work.
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(24).png" width="860px" height="500px" alt="lab00-01"/>
 #### 4.Kindergarten
 The player is free to roam and fiddle with blocks on the ground, with wind chimes playing in the background. The towering toys and lovely decorations around bring players back to their childhood memories and immerse them in the romance of childhood.
@@ -58,13 +58,16 @@ If you want to build something bigger and you don't have enough blocks? You are 
 
 ### Players customize the block colors
 Players can change the block color to their liking
+
 Before
+
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(32).png" width="860px" height="500px" alt="lab00-01"/>
 After
+
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(33).png" width="860px" height="500px" alt="lab00-01"/>
 
 ### Weather change system
-In the Office scenario, we added a rain and snow system
+In the Office scenario, we added a weather simulation system
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(36).png" width="860px" height="500px" alt="lab00-01"/>
 
 
