@@ -4,7 +4,7 @@ YouTube link：https://youtu.be/4lpnZrvU4Tw
 
 Game Project download link：https://drive.google.com/drive/folders/1GWJE7qeiMPFzgaEr75stVgRvGGeNx6gV?usp=sharing
 
-Github Link：
+Github Link：https://github.com/RunqiZhao21031188/Come-on-Build-your-spot- 
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(16).png" width="860px" height="500px" alt="lab00-01"/>
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(14).png" width="860px" height="500px" alt="lab00-01"/>
@@ -38,8 +38,6 @@ The player is free to roam and fiddle with blocks on the ground, with wind chime
 During the design process, the visual effect of text appearing word by word in the dialog box took a long time, and we also encountered some difficulties in setting up the border of collider and camera view  . These problems were solved by learning from the videos and with the help of fellow students.
 The game did not have a specific goal and the way it was played was defined by the players themselves. So in the exhibition, the participants hacked more ways for the game.
 
-Before that we tried to make a narrative game and spent a lot of time on organising the story, characterisation, skeleton binding and mini-games demo. We changed the plan because of the amount of work involved, and we will continue to try later~
-
 
 
 ## Features
@@ -70,19 +68,27 @@ In the Office scenario, we added a rain and snow system
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(36).png" width="860px" height="500px" alt="lab00-01"/>
 
 
-## division of the project
+## Division of the project
 Team members：Lei Cao, Danhui Li, Yamin Li, Runqi Zhao(team's representative)
 
-Planner：Runqi Zhao, Lei Cao
-Modeling： Runqi Zhao, Danhui Li, Yamin Li
-Coding：Lei Cao
-Video Clip：Yamin Li
-Copy Writer: Danhui Li
+Planner：Runqi Zhao（Discover the theme and form of the game）, Lei Cao（Discuss interaction forms）
+
+Modeling： Runqi Zhao（Scene of Park and Kindergarten）, Danhui Li（Scene of Office，Modeling of blocks）, Yamin Li（Scene of Community，Modeling of blocks）
+
+Coding：Lei Cao（Add background image, background music and other functions in unity.Using c# in unity to complete the scene conversion.scene click events, dialog box effects and add modules and change the color of the modules),Runqi Zhao(Debug leapMotion parameters and devices, weather simulation)
+
+Video Clip：Yamin Li（Homepage video）
+
+Copy Writer: Danhui Li（Dialogue and looking for BGM）
 
 ## Support
 Unity 2021.3f1
 LeapMotion
 Windows64bit
 
+### What could we do better?
+In making the game, we found that leap Motion wasn't as accurate as we'd hoped. Also, people don't feel comfortable using LeapMotion for the first time and don't interact well with it. In the future, we want to focus on optimizing the way LeapMotion interacts with games and finding an interactive game that is more playable and easy to play with LeapMotion
+
+Before that we tried to make a narrative game and spent a lot of time on organising the story, characterisation, skeleton binding and mini-games demo. We changed the plan because of the amount of work involved, and we will continue to try later~
 
 
