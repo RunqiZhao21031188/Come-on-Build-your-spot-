@@ -14,7 +14,7 @@ During the group brainstorming, we took the daily life status and needs of the p
 
 
 ## Description
-<img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(16).png" width="860px" height="500px" alt="lab00-01"/>
+
 This is a game with a combination of unity and leap motion that has a building function through hand movements. In the game, the player can choose different scenarios. We have set up four scenes: kindergarten, office scene, park and community. Each scene is built and rendered by blender. Before each scene we interspersed dialogue to help the player immerse themselves in the scene. In the scenes we set up 10 different styles of modules that the player can grab and move through hand grasping movements and keyboard to achieve the module overlay function. We have also set up the button to add modules in each environment through c#, dropping modules in order according to the display show board in the scenes. In addition to the added module can be modify color by clicking on a button.
 
 ### 4 Scene
